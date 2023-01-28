@@ -1,0 +1,21 @@
+{
+        "anonymous": false,
+        "colInfo": null,
+        "data": null,
+        "fullAccessRealtimeLink": null,
+        "fullAccessRealtimeShared": false,
+        "generatedLink": null,
+        "isAnonymous": false,
+        "isFullAccessRealtimeShared": false,
+        "isLTISharedToIns": false,
+        "isReadonlyRealtimeShared": false,
+        "isShared": false,
+        "ltisharedToIns": false,
+        "notOwner": false,
+        "readonlyRealtimeLink": null,
+        "readonlyRealtimeShared": false,
+        "rowVersion": null,
+        "settings": "{}",
+        "shared": false,
+        "writeable": true
+}

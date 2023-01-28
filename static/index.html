@@ -1,0 +1,56 @@
+
+<!doctype html>
+<html>
+
+<head>
+  <title>Math Editor</title>
+  <link rel="stylesheet" href="/static/fonts-6798a52.css" />
+  <link rel="icon" 
+      type="image/png" 
+      href="/static/logo.png"/>
+    <meta name=viewport content="width=device-width, height=device-height, initial-scale=1"> 
+    <meta charset="utf-8" />
+</head>
+
+<body>
+  <div id='root'></div> 
+  <div id="main-container" style="left: 50%;
+    transform: translate(-50%,0);
+    display: flex;
+    flex-flow: column;
+    align-content: center;
+    position: absolute;
+    top: 80px;">
+   <div id="mathchaText" style="
+    font-size: 19px;
+    font-family: serif;
+    text-align: center;    
+    color: #6d6b6b;
+      "><math-text>Math</math-text>
+    </div>
+
+    <div id="progress-bar-container" style="
+    width: 220px;
+    height: 25px;
+    ">
+      <svg class="rc-progress-line " viewBox="0 0 100 4" preserveAspectRatio="none">
+        <path class="rc-progress-line-trail" d="M 2,2 L 98,2" stroke-linecap="round" stroke="#D9D9D9" stroke-width="1" fill-opacity="0"></path>
+        <path id="progress-bar" class="rc-progress-line-path" d="M 2,2 L 98,2" stroke-linecap="round" stroke="#4CAF50" stroke-width="4"
+          fill-opacity="0" style="stroke-dasharray: 100px, 100px; stroke-dashoffset: 99.5px; transition: stroke-dashoffset 0s ease 0s, stroke 0s linear;"></path>
+      </svg>
+    </div>
+    <span id="error-span" style="color: mediumvioletred; font-size: 15px"></span>
+  </div>
+  <script>
+    var g_version = "6798a52";
+    var mathGlobal = {
+      appMode: "main"
+    }
+    var webWorkers=[];
+    window.cdnPrefix = "http://localhost:6576/static";
+    window.DOC_ASSET_HOST = 'http://localhost:6576'
+  </script>
+  <script src="/static/index-6798a52.js"></script>
+</body>
+
+</html>

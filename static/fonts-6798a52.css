@@ -1,0 +1,328 @@
+@font-face {
+	font-family: Asana;
+	src: url("/static/fonts/Asana-Math.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Asana-Math;
+	src: url("/static/fonts/Asana-math-mode.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Asana-Mathbb;
+	src: url("/static/fonts/Asana-mathbb.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Asana-Mathit;
+	src: url("/static/fonts/Asana-mathit.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Asana-Mathcal;
+	src: url("/static/fonts/Asana-mathcal.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Asana-Mathscr;
+	src: url("/static/fonts/Asana-mathscr.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Asana-Mathfrak;
+	src: url("/static/fonts/Asana-mathfrak.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Asana-Mathsf;
+	src: url("/static/fonts/Asana-mathsf.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Asana-Mathtt;
+	src: url("/static/fonts/Asana-mathtt.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Asana-Mathrm;
+	src: url("/static/fonts/Asana-mathrm.otf") format("opentype");
+}
+
+@font-face {
+	font-family: 'FontAwesome';
+	src: url('/static/fonts/icomoon.woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/**
+Latin Modern
+**/
+
+@font-face {
+	font-family: LatinModern;
+	src: url("/static/fonts/latinmodern-math.otf") format("opentype");
+}
+
+@font-face {
+	font-family: LatinModern-Math;
+	src: url("/static/fonts/latinmodern-math-mode.otf") format("opentype");
+}
+
+@font-face {
+	font-family: LatinModern-Mathbb;
+	src: url("/static/fonts/latinmodern-mathbb.otf") format("opentype");
+}
+
+@font-face {
+	font-family: LatinModern-Mathit;
+	src: url("/static/fonts/latinmodern-mathit.otf") format("opentype");
+}
+
+@font-face {
+	font-family: LatinModern-Mathcal;
+	src: url("/static/fonts/latinmodern-mathcal.otf") format("opentype");
+}
+
+@font-face {
+	font-family: LatinModern-Mathscr;
+	src: url("/static/fonts/latinmodern-mathscr.otf") format("opentype");
+}
+
+@font-face {
+	font-family: LatinModern-Mathfrak;
+	src: url("/static/fonts/latinmodern-mathfrak.otf") format("opentype");
+}
+
+@font-face {
+	font-family: LatinModern-Mathsf;
+	src: url("/static/fonts/latinmodern-mathsf.otf") format("opentype");
+}
+
+@font-face {
+	font-family: LatinModern-Mathtt;
+	src: url("/static/fonts/latinmodern-mathtt.otf") format("opentype");
+}
+
+@font-face {
+	font-family: LatinModern-Mathrm;
+	src: url("/static/fonts/latinmodern-mathrm.otf") format("opentype");
+}
+
+/***********************************************************/
+
+
+/**
+Thicker Latin Modern
+**/
+
+@font-face {
+	font-family: ThickerLm;
+	src: url("/static/fonts/thickerlm-math.otf") format("opentype");
+}
+
+@font-face {
+	font-family: ThickerLm-Math;
+	src: url("/static/fonts/thickerlm-math-mode.otf") format("opentype");
+}
+
+@font-face {
+	font-family: ThickerLm-Mathbb;
+	src: url("/static/fonts/thickerlm-mathbb.otf") format("opentype");
+}
+
+@font-face {
+	font-family: ThickerLm-Mathit;
+	src: url("/static/fonts/thickerlm-mathit.otf") format("opentype");
+}
+
+@font-face {
+	font-family: ThickerLm-Mathcal;
+	src: url("/static/fonts/thickerlm-mathcal.otf") format("opentype");
+}
+
+@font-face {
+	font-family: ThickerLm-Mathscr;
+	src: url("/static/fonts/thickerlm-mathscr.otf") format("opentype");
+}
+
+@font-face {
+	font-family: ThickerLm-Mathfrak;
+	src: url("/static/fonts/thickerlm-mathfrak.otf") format("opentype");
+}
+
+@font-face {
+	font-family: ThickerLm-Mathsf;
+	src: url("/static/fonts/thickerlm-mathsf.otf") format("opentype");
+}
+
+@font-face {
+	font-family: ThickerLm-Mathtt;
+	src: url("/static/fonts/thickerlm-mathtt.otf") format("opentype");
+}
+
+@font-face {
+	font-family: ThickerLm-Mathrm;
+	src: url("/static/fonts/thickerlm-mathrm.otf") format("opentype");
+}
+
+/***********************************************************/
+
+/* Computer Modern */
+
+@font-face {
+	font-family: 'Computer Modern Sans';
+	src: url('/static/fonts/cmunss.otf') format("opentype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Computer Modern Sans';
+	src: url('/static/fonts/cmunsx.otf') format("opentype");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Computer Modern Sans';
+	src: url('/static/fonts/cmunsi.otf') format("opentype");
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Computer Modern Sans';
+	src: url('/static/fonts/cmunso.otf') format("opentype");
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Computer Modern Serif';
+	src: url('/static/fonts/cmunrm.otf') format("opentype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Computer Modern Serif';
+	src: url('/static/fonts/cmunbx.otf') format("opentype");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Computer Modern Serif';
+	src: url('/static/fonts/cmunti.otf') format("opentype");
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Computer Modern Serif';
+	src: url('/static/fonts/cmunbi.otf') format("opentype");
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Computer Modern Typewriter';
+	src: url('/static/fonts/cmuntt.otf') format("opentype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Computer Modern Typewriter';
+	src: url('/static/fonts/cmuntb.otf') format("opentype");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Computer Modern Typewriter';
+	src: url('/static/fonts/cmunit.otf') format("opentype");
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Computer Modern Typewriter';
+	src: url('/static/fonts/cmuntx.otf') format("opentype");
+	font-weight: bold;
+	font-style: italic;
+}
+
+/**/
+
+
+
+
+/**
+Sans Math + Liberation Font
+**/
+
+@font-face {
+	font-family: Sans;
+	src: url("/static/fonts/Sans-Math.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Sans-Math;
+	src: url("/static/fonts/Sans-Math-mode.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Sans-Bold;
+	src: url("/static/fonts/Sans-bold.otf") format("opentype");
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: Sans-Mathbb;
+	src: url("/static/fonts/Asana-mathbb.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Sans-Mathit;
+	src: url("/static/fonts/Sans-mathit.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Sans-Mathcal;
+	src: url("/static/fonts/Asana-mathcal.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Sans-Mathscr;
+	src: url("/static/fonts/Asana-mathscr.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Sans-Mathfrak;
+	src: url("/static/fonts/Asana-mathfrak.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Sans-Mathsf;
+	src: url("/static/fonts/Asana-mathsf.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Sans-Mathtt;
+	src: url("/static/fonts/Asana-mathtt.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Sans-Mathrm;
+	src: url("/static/fonts/Asana-mathrm.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Sans-Mathbf;
+	src: url("/static/fonts/Sans-mathbf.otf") format("opentype");
+	font-weight: bold;
+}
+
+/***********************************************************/

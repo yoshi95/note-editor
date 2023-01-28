@@ -1,0 +1,56 @@
+{
+  "tree": {
+    "documents": [
+      {
+        "id": "6zpSwyHz0",
+        "name": "compound-interest",
+        "anonymous": false,
+        "colInfo": null,
+        "data": null,
+        "fullAccessRealtimeLink": null,
+        "fullAccessRealtimeShared": false,
+        "generatedLink": null,
+        "isAnonymous": false,
+        "isFullAccessRealtimeShared": false,
+        "isLTISharedToIns": false,
+        "isReadonlyRealtimeShared": false,
+        "isShared": false,
+        "ltisharedToIns": false,
+        "notOwner": false,
+        "readonlyRealtimeLink": null,
+        "readonlyRealtimeShared": false,
+        "rowVersion": null,
+        "settings": "{}",
+        "shared": false,
+        "writeable": true
+      }
+    ],
+    "directories": []
+  },
+  "sharedTree": {
+    "documents": [],
+    "directories": []
+  },
+  "user": {
+    "anonymous": false,
+    "displayName": "yoshi chen",
+    "distinctId": "c278fbad6082f3922484d2bd714addbf",
+    "firstLogin": true,
+    "isAnonymous": false,
+    "isFirstLogin": true,
+    "type": null,
+    "userNetworkType": "google",
+    "settings": {
+      "sidebarWidth": null,
+      "generalSettings": {
+        "isDisablePowerIndexOneChar": false,
+        "displayStyleForInlineMath": true,
+        "suggestionBoxTriggerShortcut": null,
+        "complexObject": null
+      },
+      "firstLogin": false,
+      "isFirstLogin": false
+    }
+  },
+  "maintainInfo": null
+}
